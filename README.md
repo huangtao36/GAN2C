@@ -23,10 +23,10 @@ pip install dominate
 ```dir
 
 --dataset  
-&emsp;&emsp;|--trainA  
-&emsp;&emsp;|--trainB  
-&emsp;&emsp;|--testA  
-&emsp;&emsp;|--testB  
+|--trainA  
+|--trainB  
+|--testA  
+|--testB  
 ```
 
 - Train a model:
